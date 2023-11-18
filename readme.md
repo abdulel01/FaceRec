@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This Python script captures video from your webcam and detects faces in real-time using the OpenCV library and the dlib face detection model.
+Using the OpenCV library and the dlib face detection model, this Python script captures video from your webcam and detects faces in real-time.
 
 ## Getting Started
 
